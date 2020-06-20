@@ -1,2 +1,2 @@
-# Initial page
+# 英汉黑客辞典
 

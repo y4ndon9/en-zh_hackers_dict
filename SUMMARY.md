@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [英汉黑客辞典](README.md)
 
