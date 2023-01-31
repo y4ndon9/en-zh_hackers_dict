@@ -81,7 +81,7 @@
 
 ## S
 
-* [Untitled](s/untitled.md)
+* [Sturgeon's Law](s/untitled.md)
 
 ## T
 
