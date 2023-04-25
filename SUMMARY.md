@@ -82,6 +82,7 @@
 ## S
 
 * [Sturgeon's Law](s/untitled.md)
+* [Sherlock](s/sherlock.md)
 
 ## T
 
