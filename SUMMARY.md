@@ -106,7 +106,7 @@
 
 ## Y
 
-* [Untitled](y/untitled.md)
+* [Yerkes–Dodson law](y/untitled.md)
 
 ## Z
 
