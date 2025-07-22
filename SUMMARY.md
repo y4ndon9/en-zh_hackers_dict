@@ -53,7 +53,7 @@
 
 ## L
 
-* [Untitled](l/untitled.md)
+* [Laws](l/untitled.md)
 
 ## M
 
