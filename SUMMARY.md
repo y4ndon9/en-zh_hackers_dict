@@ -78,6 +78,7 @@
 ## R
 
 * [Recursion](r/untitled.md)
+* [Ralph Wiggum Technique](r/ralph-wiggum-technique.md)
 
 ## S
 
